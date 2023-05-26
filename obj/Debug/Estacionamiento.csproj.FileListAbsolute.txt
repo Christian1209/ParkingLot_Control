@@ -1,0 +1,144 @@
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.config
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\bin\Debug\Guna.UI2.dll
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.CopyComplete
+F:\Estructura De datos\EstacionamientoV1\bin\Debug\Estacionamiento.exe.config
+F:\Estructura De datos\EstacionamientoV1\bin\Debug\Estacionamiento.exe
+F:\Estructura De datos\EstacionamientoV1\bin\Debug\Estacionamiento.pdb
+F:\Estructura De datos\EstacionamientoV1\bin\Debug\Guna.UI2.dll
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.Home.resources
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.Login.resources
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.Properties.Resources.resources
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.CopyComplete
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.exe
+F:\Estructura De datos\EstacionamientoV1\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\bin\Debug\Estacionamiento.exe.config
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\bin\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\bin\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\bin\Debug\Guna.UI2.dll
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.CopyComplete
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.UserControls.UC_Mapa.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\bin\Debug\Estacionamiento.exe.config
+D:\Users\Propietario\Downloads\EstacionamientoV1\bin\Debug\Estacionamiento.exe
+D:\Users\Propietario\Downloads\EstacionamientoV1\bin\Debug\Estacionamiento.pdb
+D:\Users\Propietario\Downloads\EstacionamientoV1\bin\Debug\Guna.UI2.dll
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.Home.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.Login.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.Properties.Resources.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.UserControls.UC_Mapa.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.csproj.CopyComplete
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.exe
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.pdb
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.Ayuda_Login.resources
+D:\Users\Propietario\Downloads\EstacionamientoV1\obj\Debug\Estacionamiento.Ayuda_Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.Ayuda_Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.Ayuda_Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV1\obj\Debug\Estacionamiento.UserControls.UC_Ticket.resources
+F:\Estructura De datos\EstacionamientoV7\bin\Debug\Estacionamiento.exe.config
+F:\Estructura De datos\EstacionamientoV7\bin\Debug\Estacionamiento.exe
+F:\Estructura De datos\EstacionamientoV7\bin\Debug\Estacionamiento.pdb
+F:\Estructura De datos\EstacionamientoV7\bin\Debug\Guna.UI2.dll
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.Ayuda_Home.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.Ayuda_Login.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.Home.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.Login.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.Properties.Resources.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.UserControls.UC_Mapa.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.UserControls.UC_Ticket.resources
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.csproj.CopyComplete
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.exe
+F:\Estructura De datos\EstacionamientoV7\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.Ayuda_Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.Ayuda_Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.UserControls.UC_Mapa.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.UserControls.UC_Ticket.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\bin\Debug\Estacionamiento.exe.config
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\bin\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\bin\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\bin\Debug\Guna.UI2.dll
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV8\obj\Debug\Estacionamiento.csproj.CopyComplete
+F:\Estructura De datos\EstacionamientoV9\bin\Debug\Estacionamiento.exe.config
+F:\Estructura De datos\EstacionamientoV9\bin\Debug\Estacionamiento.exe
+F:\Estructura De datos\EstacionamientoV9\bin\Debug\Estacionamiento.pdb
+F:\Estructura De datos\EstacionamientoV9\bin\Debug\Guna.UI2.dll
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.Ayuda_Home.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.Ayuda_Login.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.Home.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.Login.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.Properties.Resources.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.UserControls.UC_Mapa.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.UserControls.UC_Ticket.resources
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.csproj.CopyComplete
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.exe
+F:\Estructura De datos\EstacionamientoV9\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\bin\Debug\Estacionamiento.exe.config
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\bin\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\bin\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\bin\Debug\Guna.UI2.dll
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.Ayuda_Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.Ayuda_Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.Home.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.Login.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.UserControls.UC_Inicio.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.UserControls.UC_Mapa.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.UserControls.UC_Ticket.resources
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.csproj.CopyComplete
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.exe
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.pdb
+C:\Users\misa_\OneDrive\Escritorio\Estacionamiento\EstacionamientoV10\obj\Debug\Estacionamiento.UserControls.UC_Ingresos.resources
